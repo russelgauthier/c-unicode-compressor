@@ -1,3 +1,4 @@
+//UTF-8 Compression Algorithm - Russel Gauthier (gauthier.russel@gmail.com) - 06/03/2015
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
